@@ -1,0 +1,11 @@
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\bin\Debug\net8.0\MovieLibrary.deps.json
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\bin\Debug\net8.0\MovieLibrary.pdb
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\refint\MovieLibrary.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\MovieLibrary.pdb
+C:\Users\roshani.poojari\Desktop\Mini Project\FinalMovieStoreApp\MovieLibrary\obj\Debug\net8.0\ref\MovieLibrary.dll
